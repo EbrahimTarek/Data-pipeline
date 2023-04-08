@@ -6,5 +6,4 @@ ETL with python
 
 ## Steps
 1- Download the ZIP file containing all of the sales transactions, then convert it into a CSV file. [Extract](https://github.com/EbrahimTarek/Data-pipeline/blob/main/extract.py)
-2- Establish a Postgresql connection to transfer data from a CSV file to the Postgres database SQL
-2- Apply trsnaformations to the CSV file . [Transform](
+2- Establish a Postgresql connection to transfer data from a CSV file to the Postgres database SQL .[Base](https://github.com/EbrahimTarek/Data-pipeline/blob/main/Base.py)
