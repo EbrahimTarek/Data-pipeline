@@ -13,5 +13,5 @@ ETL with python
 ![image](https://user-images.githubusercontent.com/93515671/230723422-1f0cc279-1ba1-413e-855f-ea35a4c8a656.png)
 - [Create insights view for stakeholders](https://github.com/EbrahimTarek/Data-pipeline/blob/main/create_insights_view.py)
 ![image](https://user-images.githubusercontent.com/93515671/230723445-8283a733-d4a6-4581-b09f-a51c7040b05b.png)
-- Stakeholders wouldn't know how to use a direct access to the database that's why we'll export insights to an Excel file. [InsightsExport_202102.xlsx](https://github.com/EbrahimTarek/Data-pipeline/blob/main/insights_export.py)
+- Stakeholders wouldn't know how to use a direct access to the database that's why we'll export insights to an Excel file. [InsightsExport](https://github.com/EbrahimTarek/Data-pipeline/blob/main/insights_export.py)
 ![image](https://user-images.githubusercontent.com/93515671/230723649-a4727bf3-0a2c-4e99-ac9a-26401682cf0f.png)
